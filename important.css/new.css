@@ -1,0 +1,74 @@
+body{
+	background-color: white;
+	color: black
+
+}
+h1{
+	color: green;
+}
+h1{
+	text-align: center;
+
+}
+img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+h4{
+	text-align : center
+}
+h5{
+	text-align: center;
+}
+p{
+	
+  padding-right: 210px;
+  padding-left: 210px;
+}
+
+
+p{
+	font-size: 16px
+
+}
+h2{
+	font-size: 20px
+	 
+}
+h3{
+font-size: 20px	
+}
+h4{
+	font-size: 20px
+}
+h5{
+	font-size: 20px
+}
+h1{
+	border-style: dotted;
+	margin: auto;
+  	width: 30%;
+  	border: 3px dotted green;
+  	
+	
+
+}
+
+p{
+font-family: sans-serif;
+}
+body{
+	background-image: url("https://i.pinimg.com/236x/c2/3d/d9/c23dd9fe56f0d7c22f069fd9e65e41cc.jpg"); 
+}
+
+
+
+
